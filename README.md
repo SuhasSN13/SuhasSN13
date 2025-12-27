@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Suhas Nadakattin
 ## 🙋‍♂️ About Me<br>🔭 I’m currently working on **Embedded & IoT solutions** including Smart City systems, Healthcare monitoring, and Automation projects using **ESP32, STM32, Raspberry Pi, and LoRa**.<br>👯 I’m looking to collaborate on **IoT, Embedded Systems, Smart Agriculture, Smart City, and Industrial Automation projects**.<br>🤝 I’m looking for help with **scalable IoT architectures, cloud integrations, and production-ready embedded designs**.<br>🌱 I’m currently learning **FreeRTOS, advanced STM32 development, and industrial-grade IoT deployments**.<br>💬 Ask me about **Embedded C, ESP32, STM32, LoRaWAN, MQTT, sensor integration, and custom PCB-based systems**.<br>⚡ Fun fact: I love turning **real-world hardware problems into smart, connected systems** 🚀<br>
 
 
